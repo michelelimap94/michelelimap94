@@ -1,23 +1,22 @@
 <div align="center">
 
-# MICHELE LIMA
-
-### Dados · Tecnologia · Negócios · Marketing · Comunicação
-
-**Transformando informação em estratégia, insights e experiências.**
+<img src="https://raw.githubusercontent.com/michelelimap94/michelelimap94/main/assets/profile-banner.svg" alt="Michele Lima — Dados, Tecnologia, Negócios, Marketing e Comunicação" width="100%" />
 
 <br>
 
 ![Dados](https://img.shields.io/badge/DADOS-17142B?style=for-the-badge&labelColor=17142B&color=D85C8A)
+&nbsp;
 ![Tecnologia](https://img.shields.io/badge/TECNOLOGIA-17142B?style=for-the-badge&labelColor=17142B&color=6F5AA8)
+&nbsp;
 ![Negócios](https://img.shields.io/badge/NEGÓCIOS-17142B?style=for-the-badge&labelColor=17142B&color=9B6BC4)
+&nbsp;
 ![Marketing](https://img.shields.io/badge/MARKETING-17142B?style=for-the-badge&labelColor=17142B&color=D85C8A)
 
 </div>
 
----
+<br>
 
-## SOBRE MIM
+## ✦ SOBRE MIM
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Publicidade e Propaganda**, construindo minha trajetória na interseção entre **dados, tecnologia, negócios e comunicação**.
 
@@ -27,13 +26,13 @@ Também tenho experiência com **Social Media e Design**, o que ampliou meu olha
 
 > **Meu foco:** conectar análise e criatividade para transformar informação em decisões e oportunidades.
 
----
+<br>
 
-## O QUE EU CONECTO
+## ✦ O QUE EU CONECTO
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 📊
 **DADOS & BI**
@@ -44,7 +43,7 @@ KPIs & Dashboards
 Marketing Analytics
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 💻
 **TECNOLOGIA**
@@ -55,7 +54,7 @@ JavaScript
 Soluções digitais
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 📈
 **NEGÓCIOS**
@@ -66,7 +65,7 @@ Tomada de decisão
 Experiência
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 📣
 **COMUNICAÇÃO**
@@ -80,66 +79,84 @@ Storytelling
 </tr>
 </table>
 
----
+<br>
 
-## FERRAMENTAS
+## ✦ FERRAMENTAS
 
-**Dados & Analytics**
+<div align="center">
 
-`SQL` `Power BI` `Excel` `Power Query` `Python` `Pandas`
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,figma&theme=dark" alt="Tecnologias" />
 
-**Desenvolvimento**
+<br><br>
 
-`HTML` `CSS` `JavaScript` `Git` `GitHub`
+`SQL` &nbsp; `Power BI` &nbsp; `Excel` &nbsp; `Power Query` &nbsp; `Pandas` &nbsp; `Canva` &nbsp; `Marketing Digital` &nbsp; `Automação` &nbsp; `Machine Learning`
 
-**Criatividade & Negócios**
+</div>
 
-`Figma` `Canva` `Marketing Digital` `Automação` `Machine Learning`
+<br>
 
----
+## ✦ PROJETOS EM DESTAQUE
 
-## PROJETOS EM DESTAQUE
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 [Data Cleaner](https://github.com/michelelimap94/data-cleaner)
+### 📊 Data Cleaner
 
 Aplicativo web para **limpeza, padronização e preparação de dados** em arquivos Excel e CSV.
 
-`HTML` `CSS` `JavaScript` · **Data Cleaning · Data Analysis**
+`HTML` `CSS` `JavaScript`
 
----
+**Data Cleaning · Data Analysis**
 
-### 🧮 [Calculadora Web Responsiva](https://github.com/michelelimap94/calculadora-web-responsiva)
+[→ Ver projeto](https://github.com/michelelimap94/data-cleaner)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 Calculadora Web Responsiva
 
 Aplicação web responsiva desenvolvida para praticar **lógica de programação, JavaScript e construção de interfaces**.
 
 `HTML` `CSS` `JavaScript`
 
----
+[→ Ver projeto](https://github.com/michelelimap94/calculadora-web-responsiva)
 
-## APRENDIZADO CONTÍNUO
+</td>
+</tr>
+</table>
 
-🎓 **Análise e Desenvolvimento de Sistemas**  
-🎓 **Publicidade e Propaganda**  
-📊 Inteligência de Dados & BI  
-📈 Marketing orientado por dados  
-🤖 Inteligência Artificial & Machine Learning  
-⚙️ Automação e tecnologia aplicada a negócios
+<br>
 
----
+## ✦ APRENDIZADO CONTÍNUO
 
-## CONECTE-SE
+| | Área |
+|:---:|:---|
+| 🎓 | **Análise e Desenvolvimento de Sistemas** |
+| 🎓 | **Publicidade e Propaganda** |
+| 📊 | Inteligência de Dados & BI |
+| 📈 | Marketing orientado por dados |
+| 🤖 | Inteligência Artificial & Machine Learning |
+| ⚙️ | Automação e tecnologia aplicada a negócios |
+
+<br>
+
+## ✦ CONECTE-SE
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-17142B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-lima-507734250/)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-17142B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michelelimap94)
+
+<br><br>
+
+**Dados para entender. Tecnologia para construir. Comunicação para transformar.**
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-### Dados para entender. Tecnologia para construir. Comunicação para transformar.
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:17142B,50:6F5AA8,100:D85C8A&section=footer" width="100%" alt="" />
 </div>
