@@ -16,11 +16,7 @@
 
 </div>
 
-<font color="#D85C8A">
-
-## ✦ SOBRE MIM
-
-</font>
+<img src="https://raw.githubusercontent.com/michelelimap94/michelelimap94/main/assets/section-sobre-mim.svg" alt="Sobre mim" width="100%" />
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Publicidade e Propaganda**, construindo minha trajetória na interseção entre **dados, tecnologia, negócios e comunicação**.
 
@@ -32,11 +28,7 @@ Também tenho experiência com **Social Media e Design**, o que ampliou meu olha
 
 <br>
 
-<font color="#6F5AA8">
-
-## ✦ O QUE EU CONECTO
-
-</font>
+<img src="https://raw.githubusercontent.com/michelelimap94/michelelimap94/main/assets/section-o-que-eu-conecto.svg" alt="O que eu conecto" width="100%" />
 
 <table>
 <tr>
@@ -89,11 +81,7 @@ Storytelling
 
 <br>
 
-<font color="#D85C8A">
-
-## ✦ FERRAMENTAS
-
-</font>
+<img src="https://raw.githubusercontent.com/michelelimap94/michelelimap94/main/assets/section-ferramentas.svg" alt="Ferramentas" width="100%" />
 
 <div align="center">
 
@@ -107,11 +95,7 @@ Storytelling
 
 <br>
 
-<font color="#6F5AA8">
-
-## ✦ PROJETOS EM DESTAQUE
-
-</font>
+<img src="https://raw.githubusercontent.com/michelelimap94/michelelimap94/main/assets/section-projetos.svg" alt="Projetos em destaque" width="100%" />
 
 <table>
 <tr>
@@ -144,11 +128,7 @@ Aplicação web responsiva desenvolvida para praticar **lógica de programação
 
 <br>
 
-<font color="#D85C8A">
-
-## ✦ APRENDIZADO CONTÍNUO
-
-</font>
+<img src="https://raw.githubusercontent.com/michelelimap94/michelelimap94/main/assets/section-aprendizado.svg" alt="Aprendizado contínuo" width="100%" />
 
 | | Área |
 |:---:|:---|
@@ -161,11 +141,7 @@ Aplicação web responsiva desenvolvida para praticar **lógica de programação
 
 <br>
 
-<font color="#6F5AA8">
-
-## ✦ CONECTE-SE
-
-</font>
+<img src="https://raw.githubusercontent.com/michelelimap94/michelelimap94/main/assets/section-conecte-se.svg" alt="Conecte-se" width="100%" />
 
 <div align="center">
 
