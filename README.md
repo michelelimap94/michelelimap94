@@ -18,11 +18,11 @@
 
 <img src="https://raw.githubusercontent.com/michelelimap94/michelelimap94/main/assets/section-sobre-mim.svg" alt="Sobre mim" width="100%" />
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Publicidade e Propaganda**, construindo minha trajetória na interseção entre **dados, tecnologia, negócios e comunicação**.
+<p><big>Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Publicidade e Propaganda**, construindo minha trajetória na interseção entre **dados, tecnologia, negócios e comunicação**.</big></p>
 
-Atualmente atuo com **Inteligência de Dados, BI e Planejamento**, trabalhando com análise e tratamento de dados, indicadores, relatórios e dashboards.
+<p><big>Atualmente atuo com **Inteligência de Dados, BI e Planejamento**, trabalhando com análise e tratamento de dados, indicadores, relatórios e dashboards.</big></p>
 
-Também tenho experiência com **Social Media e Design**, o que ampliou meu olhar para comunicação, criatividade e experiência digital.
+<p><big>Também tenho experiência com **Social Media e Design**, o que ampliou meu olhar para comunicação, criatividade e experiência digital.</big></p>
 
 > **Meu foco:** conectar análise e criatividade para transformar informação em decisões e oportunidades.
 
