@@ -1,83 +1,98 @@
-# Michele Lima
+<div align="center">
 
-### Dados • Tecnologia • Negócios • Comunicação
+# MICHELE LIMA
 
-Transformo dados em informações que ajudam a entender cenários, encontrar oportunidades e tomar decisões melhores.
+### Dados · Tecnologia · Negócios · Marketing · Comunicação
 
-Minha trajetória combina **Dados, Tecnologia, Negócios e Comunicação**, unindo análise e visão estratégica com criatividade e interesse por experiências digitais.
+**Transformando informação em estratégia, insights e experiências.**
 
----
-
-## Sobre mim
-
-Atualmente atuo com **Inteligência de Dados** e estou construindo minha trajetória na interseção entre tecnologia, análise de dados e negócios.
-
-Tenho experiência com:
-
-- Análise e tratamento de dados
-- SQL
-- Excel e Power Query
-- Power BI
-- Automação e organização de informações
-- Desenvolvimento de soluções web
-- HTML, CSS e JavaScript
-- Projetos de análise e visualização de dados
-
-Também estudo **Publicidade e Propaganda**, ampliando minha visão sobre comunicação, marketing, comportamento e negócios.
-
-Acredito que bons resultados acontecem quando **dados e pessoas são colocados na mesma conversa.**
+</div>
 
 ---
 
-## Ferramentas & Tecnologias
+## SOBRE MIM
 
-**Dados & BI**
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Publicidade e Propaganda**, construindo minha trajetória na interseção entre dados, tecnologia, negócios e comunicação.
 
-SQL • Excel • Power Query • Power BI • Python • Pandas
+Atualmente atuo com **Inteligência de Dados, BI e Planejamento**, trabalhando com análise e tratamento de dados, indicadores, relatórios e dashboards.
+
+Também tenho experiência com **Social Media e Design**, o que ampliou meu olhar para comunicação, criatividade e experiência digital.
+
+> **Meu foco:** conectar análise e criatividade para transformar informação em decisões e oportunidades.
+
+---
+
+## ÁREAS DE INTERESSE
+
+| 📊 Dados & BI | 💻 Tecnologia |
+|---|---|
+| Análise de Dados | Desenvolvimento Web |
+| Business Intelligence | Automação |
+| KPIs & Dashboards | JavaScript |
+| Marketing Analytics | Soluções digitais |
+
+| 📈 Negócios | 📣 Comunicação |
+|---|---|
+| Inteligência de Negócios | Marketing |
+| Estratégia | Conteúdo |
+| Tomada de decisão | Comunicação digital |
+| Experiência | Storytelling |
+
+---
+
+## FERRAMENTAS
+
+**Dados & Analytics**
+
+`SQL` `Power BI` `Excel` `Power Query` `Python` `Pandas`
 
 **Desenvolvimento**
 
-HTML • CSS • JavaScript • Git • GitHub
+`HTML` `CSS` `JavaScript` `Git` `GitHub`
 
-**Negócios & Comunicação**
+**Outros**
 
-Marketing • Comunicação • Análise de dados • Visualização de informações • Estratégia
-
----
-
-## Projetos
-
-### Data Cleaner
-
-Aplicação web para limpeza e organização de arquivos de dados, desenvolvida para facilitar tarefas de preparação e tratamento de informações.
-
-**Tecnologias:** HTML • CSS • JavaScript
-
-→ [Ver projeto](https://github.com/michelelimap94/data-cleaner)
+`Machine Learning` `Automação` `Marketing Digital` `Figma` `Canva`
 
 ---
 
-### Calculadora Web
+## PROJETOS
 
-Projeto desenvolvido para praticar lógica de programação e desenvolvimento de interfaces web utilizando JavaScript.
+### 📊 [Data Cleaner](https://github.com/michelelimap94/data-cleaner)
 
-**Tecnologias:** HTML • CSS • JavaScript
+Aplicativo web para **limpeza, padronização e preparação de dados** em arquivos Excel e CSV.
 
-→ [Ver projeto](https://github.com/michelelimap94/grife-responsiva)
+**HTML · CSS · JavaScript**
 
 ---
 
-## Atualmente
+### 🧮 [Calculadora Web Responsiva](https://github.com/michelelimap94/calculadora-web-responsiva)
+
+Aplicação desenvolvida para praticar **lógica de programação, JavaScript e desenvolvimento de interfaces responsivas**.
+
+**HTML · CSS · JavaScript**
+
+---
+
+## APRENDIZADO CONTÍNUO
 
 🎓 Análise e Desenvolvimento de Sistemas  
 🎓 Publicidade e Propaganda  
-📊 Inteligência de Dados  
-💻 Tecnologia & Desenvolvimento  
-📈 Dados aplicados a negócios  
-📣 Comunicação & Marketing
+📊 Inteligência de Dados & BI  
+📈 Marketing orientado por dados  
+🤖 Inteligência Artificial & Machine Learning  
+⚙️ Automação e tecnologia aplicada a negócios
 
 ---
 
-## Vamos nos conectar?
+## CONECTE-SE
 
-[LinkedIn](SEU_LINKEDIN) • [GitHub](https://github.com/michelelimap94)
+[LinkedIn](SEU_LINKEDIN) · [GitHub](https://github.com/michelelimap94)
+
+---
+
+<div align="center">
+
+**Dados para entender. Tecnologia para construir. Comunicação para transformar.**
+
+</div>
