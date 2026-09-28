@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/michelelimap94/michelelimap94/main/assets/profile-banner.svg" alt="Michele Lima — Dados, Tecnologia, Negócios, Marketing e Comunicação" width="100%" />
 
-<br>
+<br><br>
 
 ![Dados](https://img.shields.io/badge/DADOS-17142B?style=for-the-badge&labelColor=17142B&color=D85C8A)
 &nbsp;
@@ -12,11 +12,15 @@
 &nbsp;
 ![Marketing](https://img.shields.io/badge/MARKETING-17142B?style=for-the-badge&labelColor=17142B&color=D85C8A)
 
+<br><br><br>
+
 </div>
 
-<br>
+<font color="#D85C8A">
 
 ## ✦ SOBRE MIM
+
+</font>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Publicidade e Propaganda**, construindo minha trajetória na interseção entre **dados, tecnologia, negócios e comunicação**.
 
@@ -28,7 +32,11 @@ Também tenho experiência com **Social Media e Design**, o que ampliou meu olha
 
 <br>
 
+<font color="#6F5AA8">
+
 ## ✦ O QUE EU CONECTO
+
+</font>
 
 <table>
 <tr>
@@ -81,7 +89,11 @@ Storytelling
 
 <br>
 
+<font color="#D85C8A">
+
 ## ✦ FERRAMENTAS
+
+</font>
 
 <div align="center">
 
@@ -95,7 +107,11 @@ Storytelling
 
 <br>
 
+<font color="#6F5AA8">
+
 ## ✦ PROJETOS EM DESTAQUE
+
+</font>
 
 <table>
 <tr>
@@ -128,7 +144,11 @@ Aplicação web responsiva desenvolvida para praticar **lógica de programação
 
 <br>
 
+<font color="#D85C8A">
+
 ## ✦ APRENDIZADO CONTÍNUO
+
+</font>
 
 | | Área |
 |:---:|:---|
@@ -141,7 +161,11 @@ Aplicação web responsiva desenvolvida para praticar **lógica de programação
 
 <br>
 
+<font color="#6F5AA8">
+
 ## ✦ CONECTE-SE
+
+</font>
 
 <div align="center">
 
