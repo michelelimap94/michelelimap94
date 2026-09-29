@@ -124,6 +124,34 @@ Aplicação web responsiva desenvolvida para praticar **lógica de programação
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 SQL Query Helper
+
+Ferramenta para auxiliar na **construção estruturada de consultas SQL**, permitindo definir tabelas, campos, filtros e agregações e visualizar a query gerada.
+
+`SQL` `JavaScript` `HTML` `CSS`
+
+**SQL · Data Analysis · Query Building**
+
+[→ Ver projeto](https://github.com/michelelimap94/sql-query_helper)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Case de Marketing & Analytics
+
+Case autoral de **Marketing orientado por dados**, com análise de cenário, identificação de oportunidades, hipótese, teste piloto, métricas e tomada de decisão.
+
+`Marketing Analytics` `KPIs` `Power BI` `Pricing`
+
+**Segmento: Telecomunicações · Dados fictícios**
+
+[→ Ver projeto](https://github.com/michelelimap94/case-marketing-analytics)
+
+</td>
+</tr>
 </table>
 
 <br>
